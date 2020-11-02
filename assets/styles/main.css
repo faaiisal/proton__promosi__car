@@ -618,6 +618,7 @@ svg
 
 .main__menu__bg
 {
+    border: 1px solid red; 
     background-color: transparent;
 }
 
